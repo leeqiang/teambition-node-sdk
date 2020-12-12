@@ -1,5 +1,5 @@
 {
-  "name": "teambition-node-sdk",
+  "name": "@leeqiang/teambition-node-sdk",
   "version": "0.2.61",
   "description": "teambition-node-sdk",
   "main": "lib/main/index.js",
