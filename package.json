@@ -7,7 +7,7 @@
   "module": "lib/module/index.js",
   "repository": {
     "type": "git",
-    "url": "http://gitlab.alibaba-inc.com/tbs/teambition-node-sdk"
+    "url": "git+https://github.com:leeqiang/teambition-node-sdk.git"
   },
   "scripts": {
     "dev": "DEBUG=sdk:* NODE_ENV=development nodemon",
@@ -88,9 +88,6 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
-  },
-  "publishConfig": {
-    "registry": "https://registry.npm.alibaba-inc.com"
   },
   "files": [
     "lib",
