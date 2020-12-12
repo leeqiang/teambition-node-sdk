@@ -1,6 +1,6 @@
 {
   "name": "@leeqiang/teambition-node-sdk",
-  "version": "0.2.61",
+  "version": "1.0.0",
   "description": "teambition-node-sdk",
   "main": "lib/main/index.js",
   "typings": "lib/main/index.d.ts",
